@@ -5,3 +5,5 @@ print("tom&jerry")
 print("new code")
 
 
+print('next line')
+print('3rdline')
