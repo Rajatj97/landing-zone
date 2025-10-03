@@ -1,2 +1,1 @@
-print('divyansh')
-print('Atishay')
+print("user")
